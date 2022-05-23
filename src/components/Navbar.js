@@ -2,7 +2,7 @@ import React from "react";
 // import "bootstrap/dist/css/bootstrap.min.css";
 
 
-const Navbar = () => {
+function Navbar({ currentPage, handlePageChange }) {
     return (
         <nav className="navbar sticky-top navbar-expand-lg ">
       <div className="container-fluid">
@@ -20,6 +20,55 @@ const Navbar = () => {
         >
           <span className="navbar-toggler-icon">+</span>
         </button>
+
+        <div className="collapse navbar-collapse" id="mainNav">
+          <ul className="navbar-nav ms-auto mb-0 mb-lg-0">
+            <li className="nav-item">
+              <a
+                href="#projects"
+                onClick={() => handlePageChange("Projects")}
+                className={
+                  currentPage === "Projects" ? "nav-link active" : "nav-link"
+                }
+              >
+                Portfolio
+              </a>
+            </li>
+            <li className="nav-item">
+              <a
+                href="#about"
+                onClick={() => handlePageChange("About")}
+                className={
+                  currentPage === "About" ? "nav-link active" : "nav-link"
+                }
+              >
+                About
+              </a>
+            </li>
+            <li className="nav-item">
+              <a
+                href="#Resume"
+                onClick={() => handlePageChange("Resume")}
+                className={
+                  currentPage === "Resume" ? "nav-link active" : "nav-link"
+                }
+              >
+                Resume
+              </a>
+            </li>
+            <li className="nav-item">
+              <a
+                href="#contact"
+                onClick={() => handlePageChange("Contact")}
+                className={
+                  currentPage === "Contact" ? "nav-link active" : "nav-link"
+                }
+              >
+                Contact
+              </a>
+            </li>
+          </ul>
+        </div>
 
         
         

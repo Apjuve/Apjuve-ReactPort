@@ -20,19 +20,47 @@ export default function Projects() {
                 <div className="card-body">
                   <h5 className="card-title">Dinner around The Wordl</h5>
                   <p className="card-text">
-                    
+                  This application is designed to query through planted plant data 
+                parameters to make an informed decision on what to plant at a new 
+                site as well as upload newly planted plant data
                   </p>
-                  {/* <a
-                    href="/"
+                  <a
+                    href="https://gentle-lake-59989.herokuapp.com/"
                     rel="noreferrer"
                     target="_blank"
                     className="btn "
                   >
                     Deployed Site
-                  </a> */}
+                  </a>
                 </div>
               </div>
             </div>
+
+            <div class="col">
+            <div className="card project-card ">
+              <img
+                src={WorldDinner}
+                class="card-img-top"
+                alt="Happy trees Demo"
+              ></img>
+              <div className="card-body">
+                <h5 className="card-title">Dinner Around The World</h5>
+                <p className="card-text">
+                A recipe search engine for food and cocktails. Search by
+                  country and cocktail type.
+                </p>
+                <a
+                  href="https://likearollinson.github.io/recipe-finder/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="btn "
+                >
+                  Deployed Site
+                </a>
+              </div>
+            </div>
+          </div>
+
             </div>
             </div>
             </div>
