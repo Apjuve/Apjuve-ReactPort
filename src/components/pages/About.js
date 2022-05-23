@@ -5,9 +5,9 @@ export default function About() {
     return (
       <div>
         <h1 className="about-header">
-          <div className="logo-back">
+          {/* <div className="logo-back">
             <img src={logo} alt="#" className="logo"></img>
-          </div>
+          </div> */}
         </h1>
         <div className="container">
           <div className="col about-me-column">

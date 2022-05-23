@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Navbar from "./navbar";
+import Navbar from "./Navbar";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Projects from "./pages/Projects";
@@ -28,5 +28,5 @@ export default function PortfolioContainer() {
 
             {renderPage()}
         </div>
-    )
+    );
 }

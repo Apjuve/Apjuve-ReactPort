@@ -1,5 +1,7 @@
 import React from "react";
-import "../styles/Projects.css";
+import HappyArbol from "../../happy-arbol.gif";
+import WorldDinner from "../../world-dinner.gif";
+// import "../styles/Projects.css";
 
 export default function Projects() {
     return (
@@ -11,23 +13,23 @@ export default function Projects() {
             <div class="col">
               <div className="card project-card">
                 <img
-                  src={CodeSocial}
+                  src={HappyArbol}
                   class="card-img-top"
-                  alt="Dinner Around Demo"
+                  alt="Happy tree Demo"
                 ></img>
                 <div className="card-body">
                   <h5 className="card-title">Dinner around The Wordl</h5>
                   <p className="card-text">
                     
                   </p>
-                  <a
+                  {/* <a
                     href="/"
                     rel="noreferrer"
                     target="_blank"
                     className="btn "
                   >
                     Deployed Site
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </div>

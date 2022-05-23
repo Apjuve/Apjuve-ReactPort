@@ -1,17 +1,12 @@
 import React from "react";
 import "./App.css";
-import logo from './logo.svg';
-import './App.css';
-import Navbar from "./components/Navbar";
+import PortfolioContainer from "./components/PortfolioContainer";
 
 
-const App = () => {
-  return (
-    <>
-    <Navbar />
-    
-    </>
-  )
-}
+
+
+
+const App = () => <PortfolioContainer />
+
 
 export default App;

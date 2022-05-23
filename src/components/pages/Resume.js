@@ -20,7 +20,7 @@ export default function Resume() {
         </p>
         <p className="download">
           Click{" "}
-          <a
+          {/* <a
             className="link"
             href={PonceResume}
             download="resume"
@@ -28,7 +28,7 @@ export default function Resume() {
             rel="noreferrer"
           >
             here
-          </a>{" "}
+          </a>{" "} */}
           to download a copy of my resume!
         </p>
       </div>
