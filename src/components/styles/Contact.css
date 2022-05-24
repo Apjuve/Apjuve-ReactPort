@@ -1,3 +1,51 @@
 .container {
     text-align: center;
   }
+
+  .contact-header {
+    color: #0c3429;
+    text-shadow: -2px -2px, 2px 2px;
+    padding: 20px;
+    font-size: 5.5rem;
+    text-align: center;
+  }
+
+  .contact-form-header {
+    color: #0c3429;
+    font-size: 2rem;
+    font-weight: bold;
+    text-shadow: 1px 2px;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .user-email {
+    width: 50%;
+    height: 50px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: white;
+  }
+
+  .textarea {
+    width: 50%;
+    height: 200px;
+    position: relative;
+    margin-bottom: 10px;
+    overflow: auto;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+  }
+
+
+  .contact-me-links {
+    color: #dc7a4a;
+    font-weight: bold;
+    text-shadow: -1px 1px 2px black;
+    font-size: 2rem;
+    letter-spacing: 0.0375rem;
+    text-decoration: none;
+  }
+
+
+  
