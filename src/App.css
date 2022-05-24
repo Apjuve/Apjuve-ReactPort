@@ -1,6 +1,21 @@
-ul {
-  list-style: none;
+body {
+  font-family: "Roboto Condensed" sans-serif !important;
+  padding: 10px;
 }
-a {
-  text-decoration: none;
+
+.logo {
+  width: 12.25rem;
+  height: 12.25rem;
+}
+
+nav a.nav-item {
+  font-weight: 500;
+  letter-spacing: 0.0375rem;
+  cursor: pointer;
+  color: #dc7a4a;
+  margin-top: 30px;
+  vertical-align: baseline;
+}
+nav ul li {
+  text-transform: uppercase;
 }
