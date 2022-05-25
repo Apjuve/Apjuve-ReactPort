@@ -1,7 +1,7 @@
 import React from "react";
 import HappyArbol from "../../happy-arbol.gif";
 import WorldDinner from "../../world-dinner.gif";
-// import "../styles/Projects.css";
+import "../styles/Projects.css";
 
 export default function Projects() {
     return (

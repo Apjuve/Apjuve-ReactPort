@@ -1,0 +1,25 @@
+.projects-header {
+    color: #0c3429;
+    text-shadow: -2px -2px, 2px 2px 8px;
+    padding-top: 20px;
+    font-size: 5.5rem;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .projects-container {
+    color: #1c7c83;
+    font-size: 1.5rem;
+    text-shadow: 1px 3px 1px black;
+    text-align: center;
+  }
+
+  .project-card {
+    width: fit-content;
+    border: 2px solid #020507 !important;
+    border-radius: 10px;
+    box-shadow: 6px 8px 3px rgba(0, 0, 0, 0.61);
+    margin-bottom: 5px;
+    background-color: #2c764a;
+    justify-content: center;
+  }
