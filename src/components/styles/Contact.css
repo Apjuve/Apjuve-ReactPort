@@ -3,15 +3,15 @@
   }
 
   .contact-header {
-    color: #0c3429;
-    text-shadow: -2px -2px, 2px 2px;
+    color: #123a86 ;
+    /* text-shadow: -2px -2px, 2px 2px; */
     padding: 20px;
     font-size: 5.5rem;
     text-align: center;
   }
 
   .contact-form-header {
-    color: #0c3429;
+    color: #123a86 ;
     font-size: 2rem;
     font-weight: bold;
     text-shadow: 1px 2px;
@@ -39,7 +39,7 @@
 
 
   .contact-me-links {
-    color: #dc7a4a;
+    color: #f7f7f7 ;
     font-weight: bold;
     text-shadow: -1px 1px 2px black;
     font-size: 2rem;
@@ -48,31 +48,31 @@
   }
 
   .container a:focus {
-    color: #dc7a4a;
+    color: #e1540d;
   }
   .container a:hover {
     color: #d73905;
     text-decoration: none;
   }
   .button {
-    background-color: #0c3429;
-    color: #dc7a4a;
+    background-color: #123a86 ;
+    color: #f35100;
     font-size: 1.5rem;
     text-shadow: -1px 1px 2px black;
     width: 200px;
     height: 50px;
-    border: 2px solid #dc7a4a;
-    box-shadow: 1px 2px 2px black;
+    border: 2px solid #f25406;
+    box-shadow: 1px 2px 2px rgb(0, 0, 0);
     border-radius: 8px;
     margin-bottom: 30px;
   }
 
   .links-container {
-    background-color: #0c3429;
+    background-color: #123a86 ;
     padding: 1.5rem;
     width: fit-content;
     margin: auto;
-    border: 2px solid #dc7a4a;
+    border: 2px solid #e14b00;
     border-radius: 8px;
   }
 
