@@ -50,7 +50,7 @@ export default function Projects() {
                   country and cocktail type.
                 </p>
                 <a
-                  href="https://likearollinson.github.io/recipe-finder/"
+                  href="https://adambowers09.github.io/dinner-around-the-world/"
                   target="_blank"
                   rel="noreferrer"
                   className="btn "
