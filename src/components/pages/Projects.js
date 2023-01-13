@@ -18,7 +18,7 @@ export default function Projects() {
                   alt="Happy tree Demo"
                 ></img>
                 <div className="card-body">
-                  <h5 className="card-title">Dinner around The Wordl</h5>
+                  <h5 className="card-title">Happy Trees</h5>
                   <p className="card-text">
                   This application is designed to query through planted plant data 
                 parameters to make an informed decision on what to plant at a new 
