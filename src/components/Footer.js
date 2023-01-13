@@ -13,6 +13,8 @@ const Footer = () => {
            <i class="fab fa-github"></i>
       </a>
 
+      
+
       <a
         className="contact-links"
         href="https://www.linkedin.com/in/abi-ponce-308a2a229/"
