@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Apjuve-ReactPort/static/css/main.72036df7.css",
+    "main.css": "/Apjuve-ReactPort/static/css/main.1fd786b2.css",
     "main.js": "/Apjuve-ReactPort/static/js/main.0ae948e0.js",
     "static/media/world-dinner.gif": "/Apjuve-ReactPort/static/media/world-dinner.46c6fe683452b23852fa.gif",
     "static/media/happy-arbol.gif": "/Apjuve-ReactPort/static/media/happy-arbol.083f7304ee60f5743421.gif",
     "static/media/Ponresume.gif": "/Apjuve-ReactPort/static/media/Ponresume.98addb83a3455af4cafa.gif",
     "static/media/abi-foto.jpeg": "/Apjuve-ReactPort/static/media/abi-foto.231046376eb52300a108.jpeg",
     "index.html": "/Apjuve-ReactPort/index.html",
-    "main.72036df7.css.map": "/Apjuve-ReactPort/static/css/main.72036df7.css.map",
+    "main.1fd786b2.css.map": "/Apjuve-ReactPort/static/css/main.1fd786b2.css.map",
     "main.0ae948e0.js.map": "/Apjuve-ReactPort/static/js/main.0ae948e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.72036df7.css",
+    "static/css/main.1fd786b2.css",
     "static/js/main.0ae948e0.js"
   ]
 }
