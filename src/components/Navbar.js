@@ -7,7 +7,11 @@ function Navbar({ currentPage, handlePageChange }) {
     return (
         <nav className="navbar sticky-top navbar-expand-lg ">
       <div className="container-fluid">
-        <a className="navbar-brand flex-shrink" href="/">
+        <a href="#about"
+                onClick={() => handlePageChange("About")}
+                className={
+                  currentPage === "About" ? "nav-link active" : "nav-link"
+                }>
           A. Ponce
         </a>
         <button
