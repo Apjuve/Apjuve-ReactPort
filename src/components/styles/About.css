@@ -23,7 +23,7 @@
   background-blend-mode: soft-light;
 }
 
-@media only screen and (max-width: 576px) {
+@media screen and (min-width: 768px) {
   .img-thumbnail {
     width: 100%;
     height: fit-content;
@@ -35,3 +35,18 @@
     background-blend-mode: soft-light;
   }
 }
+
+
+@media screen and (max-width: 780px) {
+  .img-thumbnail {
+    width: 100%;
+    height: fit-content;
+    float: right;
+    border: 8px solid #0c3429;
+    margin-bottom: 1.5rem;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    background-blend-mode: soft-light;
+  }
+}
+
