@@ -21,20 +21,21 @@ export default function About() {
   
             <p className=" col about-me-content">
               {" "}
-              Hello and thanks for checking out my portfolio! My name is Abimael
-              Ponce and I am currently a student in the UNC Full Stack Developer
-              Bootcamp. I am currently working for Honda. I recently
-              decided it's time to move on to a new career where I can
-              put my problem-solving skills to the test.
+              Hello, My name is Abimael Ponce
+              a passionate and skill software Developer with a creative mindset
+              and a strong foundation in programming languages. I specialize in crafting
+              interactive and user-friendly websites.
               <br></br>
-              <br></br>I am originally from Mexico, and miss it 
-              everyday. I have lived in North Carolina for the past 20 years, and
-              truly love it..
+              <br></br>Throughout my journey as a Software Developer, I have acquired 
+              expertise in a wide range of technologies, including HTML5, CSS, Javascript
+              and various frameworks such as React, Express and Bootstrap. I constantly stay 
+              updated with the latest industry trends and best practices to ensure that the 
+              websites I create are modern, responsive, and optimized for performance.
               <br></br>
-              <br></br>I am an avid home cook,
-              and music lover. I am a proud resident of Burlington, NC and
-              am excited to enter the world of web development full-time once my
-              coursework has concluded.
+              <br></br>Thank you for visiting my portfolio. 
+              I invite you to explore my work and see firsthand how my 
+              expertise and dedication can elevate your online presence.
+              Let's collaborate and bring your vision to life!
             </p>
           </div>
           <div class="col"></div>
