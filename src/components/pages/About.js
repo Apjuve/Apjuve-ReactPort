@@ -1,5 +1,5 @@
 import React from "react";
-import abiFoto from "../../abi-foto.jpeg";
+// import abiFoto from "../../abi-foto.jpeg";
 import "../styles/About.css";
 
 
@@ -13,12 +13,12 @@ export default function About() {
         </h1> */}
         <div className="container">
           <div className="col about-me-column">
-            <img
+            {/* <img
               src={abiFoto}
               alt="..."
               className="img-thumbnail rounded-circle" 
             ></img>
-  
+   */}
             <p className=" col about-me-content">
               {" "}
               Hello, My name is Abimael Ponce

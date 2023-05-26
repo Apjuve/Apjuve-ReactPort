@@ -28,7 +28,7 @@ export default function Contact() {
           <br></br>
           <a
             className="contact-me-links"
-            href="#"
+            href="https://twitter.com/The0ldLady"
             target="_blank"
             rel="noreferrer"
           >
