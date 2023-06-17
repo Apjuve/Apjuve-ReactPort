@@ -33,3 +33,21 @@
     padding-top: 4px;
     font-weight: bold;
   }
+
+  .toggle-btn {
+    background: #4864ff;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+
+  .toggle-btn img {
+    width: 25px;
+    margin-left: 10px;
+
+  }

@@ -1,6 +1,7 @@
 import React from "react";
 import HappyArbol from "../../happy-arbol.gif";
 import WorldDinner from "../../world-dinner.gif";
+import PrestigeBarber from "../../Prestige-Barber.gif";
 import "../styles/Projects.css";
 
 export default function Projects() {
@@ -51,6 +52,32 @@ export default function Projects() {
                 </p>
                 <a
                   href="https://adambowers09.github.io/dinner-around-the-world/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="btn "
+                >
+                  Deployed Site
+                </a>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col">
+            <div className="card project-card ">
+              <img
+                src={PrestigeBarber}
+                class="card-img-top"
+                alt="Prestige Barber"
+              ></img>
+              <div className="card-body">
+                <h5 className="card-title">Presitge Barber Shop</h5>
+                <p className="card-text">
+                A Web Page for a local barber shop
+                
+                </p>
+                <a
+                  href="https://www.prestigebarbershop.org/"
                   target="_blank"
                   rel="noreferrer"
                   className="btn "
