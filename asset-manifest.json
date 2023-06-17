@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Apjuve-ReactPort/static/css/main.e5b2f1c5.css",
-    "main.js": "/Apjuve-ReactPort/static/js/main.3abaf9ca.js",
+    "main.css": "/Apjuve-ReactPort/static/css/main.5fbd81ff.css",
+    "main.js": "/Apjuve-ReactPort/static/js/main.3f3d5405.js",
     "static/media/world-dinner.gif": "/Apjuve-ReactPort/static/media/world-dinner.46c6fe683452b23852fa.gif",
+    "static/media/Prestige-Barber.gif": "/Apjuve-ReactPort/static/media/Prestige-Barber.2b23102de30e281ef9a7.gif",
     "static/media/happy-arbol.gif": "/Apjuve-ReactPort/static/media/happy-arbol.083f7304ee60f5743421.gif",
     "static/media/Ponresume.gif": "/Apjuve-ReactPort/static/media/Ponresume.98addb83a3455af4cafa.gif",
     "index.html": "/Apjuve-ReactPort/index.html",
-    "main.e5b2f1c5.css.map": "/Apjuve-ReactPort/static/css/main.e5b2f1c5.css.map",
-    "main.3abaf9ca.js.map": "/Apjuve-ReactPort/static/js/main.3abaf9ca.js.map"
+    "main.5fbd81ff.css.map": "/Apjuve-ReactPort/static/css/main.5fbd81ff.css.map",
+    "main.3f3d5405.js.map": "/Apjuve-ReactPort/static/js/main.3f3d5405.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5b2f1c5.css",
-    "static/js/main.3abaf9ca.js"
+    "static/css/main.5fbd81ff.css",
+    "static/js/main.3f3d5405.js"
   ]
 }
